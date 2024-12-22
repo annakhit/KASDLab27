@@ -43,6 +43,21 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="MyIteratorList\IMyIteratorList.cs" />
+    <Compile Include="MyIterator\MyArrayDeque.cs" />
+    <Compile Include="MyIterator\IMyIterator.cs" />
+    <Compile Include="MyIterator\MyTreeMap.cs" />
+    <Compile Include="MyIterator\Node.cs" />
+    <Compile Include="MyIteratorList\MyArrayList.cs" />
+    <Compile Include="MyIteratorList\MyLinkedList.cs" />
+    <Compile Include="MyIteratorList\MyLinkedListNode.cs" />
+    <Compile Include="MyIteratorList\MyVector.cs" />
+    <Compile Include="MyIterator\MyTreeSet.cs" />
+    <Compile Include="MyIterator\MyPriorityQueue.cs" />
+    <Compile Include="MyIterator\MyPriotiryTask.cs" />
+    <Compile Include="MyIterator\MyPriotiryTaskComparer.cs" />
+    <Compile Include="MyIterator\MyHashMap.cs" />
+    <Compile Include="MyIterator\MyHashSet.cs" />
     <Compile Include="Program.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
